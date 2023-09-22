@@ -6,7 +6,7 @@ import de.hamstersimulator.objectsfirst.inspector.InspectableSimpleHamsterGame;
 
 public abstract class InternalHomeworkHamsterGame extends InspectableSimpleHamsterGame {
 	public InternalHomeworkHamsterGame() {
-		this.loadTerritoryFromResourceFile("/territories/territory.ter");
+		this.loadTerritoryFromResourceFile("/territories/homeworkterritory.ter");
 		this.displayInNewGameWindow();
 	}
 
