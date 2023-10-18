@@ -53,6 +53,15 @@
 							<mainClass>de.unistuttgart.iste.sqa.pse.sheet02.homework.HomeworkHamsterGameApp</mainClass>
 						</configuration>
 					</execution>
+					<execution>
+						<id>HomeworkMysteriousHamsterGameApp</id>
+						<goals>
+							<goal>java</goal>
+						</goals>
+						<configuration>
+							<mainClass>de.unistuttgart.iste.sqa.pse.sheet02.homework.HomeworkMysteriousHamsterGameApp</mainClass>
+						</configuration>
+					</execution>
 				</executions>
 			</plugin>
 			<plugin>

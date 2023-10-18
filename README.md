@@ -21,3 +21,7 @@ Have fun!
   ```sh
   mvn clean compile exec:java@HomeworkHamsterGameApp
   ```
+  and
+  ```sh
+  mvn clean compile exec:java@HomeworkMysteriousHamsterGameApp
+  ```

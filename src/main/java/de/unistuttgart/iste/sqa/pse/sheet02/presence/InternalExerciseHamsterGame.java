@@ -10,6 +10,7 @@ public abstract class InternalExerciseHamsterGame extends InspectableSimpleHamst
 	public InternalExerciseHamsterGame() {
 		this.loadTerritoryFromResourceFile("/territories/territory.ter");
 		this.displayInNewGameWindow();
+		game.startGame();
 	}
 
 
@@ -30,9 +31,7 @@ public abstract class InternalExerciseHamsterGame extends InspectableSimpleHamst
 	
 	@Override
 	protected void run() {
-		game.startGame();
 		hamsterRun();
-		game.stopGame();
 	}
 
 	abstract void hamsterRun();
