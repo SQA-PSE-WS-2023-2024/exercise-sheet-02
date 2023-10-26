@@ -18,7 +18,7 @@ public class ExerciseHamsterGame extends InternalExerciseHamsterGame {
 	public Hamster getHamster() {
 		return paule;
 	}
-	
+
 	@Override
 	void hamsterRun() {
 		// TODO your code for A4 goes here.

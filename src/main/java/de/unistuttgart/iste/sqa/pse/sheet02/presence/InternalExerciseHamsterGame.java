@@ -13,8 +13,6 @@ public abstract class InternalExerciseHamsterGame extends InspectableSimpleHamst
 		game.startGame();
 	}
 
-
-
 	/**
 	 * Override to remove have paule not right from the start.
 	 */
@@ -28,7 +26,7 @@ public abstract class InternalExerciseHamsterGame extends InspectableSimpleHamst
 		manager.addClass(Location.class, false);
 		manager.addClassesFromCurrentPackage();
 	}
-	
+
 	@Override
 	protected void run() {
 		hamsterRun();

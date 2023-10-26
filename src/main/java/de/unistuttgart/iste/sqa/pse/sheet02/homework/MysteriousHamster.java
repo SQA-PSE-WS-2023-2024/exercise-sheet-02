@@ -3,11 +3,11 @@ package de.unistuttgart.iste.sqa.pse.sheet02.homework;
 import de.hamstersimulator.objectsfirst.external.model.Hamster;
 
 /**
- * 
- * Mysterious hamsters are a mystery, their actions are very mysterious. 
- * 
+ *
+ * Mysterious hamsters are a mystery, their actions are very mysterious.
+ *
  * Class for exercise 3 on sheet 02.
- * 
+ *
  */
 public final class MysteriousHamster {
 	private Integer stepCounter = 0;
