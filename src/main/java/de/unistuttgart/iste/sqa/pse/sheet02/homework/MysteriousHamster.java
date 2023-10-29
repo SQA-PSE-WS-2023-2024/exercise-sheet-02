@@ -14,8 +14,8 @@ public final class MysteriousHamster {
 	private Hamster hamster;
 
 	/**
-	 * This constructor allows to access methods of a mysterous hamster on a specified hamster.
-	 * @param hamster A mysterioshamster-object will be created from this hamster.
+	 * This constructor allows to access methods of a mysterious hamster on a specified hamster.
+	 * @param hamster A mysterious hamster-object will be created from this hamster.
 	 */
 	public MysteriousHamster(final Hamster hamster) {
 		this.hamster = hamster;
