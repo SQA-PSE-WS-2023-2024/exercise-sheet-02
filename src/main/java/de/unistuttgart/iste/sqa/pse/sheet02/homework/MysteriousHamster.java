@@ -7,6 +7,8 @@ import de.hamstersimulator.objectsfirst.external.model.Hamster;
  * Mysterious hamsters are a mystery, their actions are very mysterious.
  *
  * Class for exercise 3 on sheet 02.
+ * 
+ * @author (Your name)
  *
  */
 public final class MysteriousHamster {
